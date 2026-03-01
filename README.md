@@ -14,7 +14,7 @@ Em breve:
 - Análise de Dados Econômicos
 - Dashboard de Dados
 
-🧠 Ferramentas
+Ferramentas
 
 - Python
 - Excel / Google Sheets
